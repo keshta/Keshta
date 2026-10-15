@@ -4,9 +4,10 @@
 
 ---
 
-🚀 I build **scalable web applications, robust RESTful APIs, and reliable backend systems** using **C#, ASP.NET Core, Angular, and SQL Server**.
+🚀 I build <strong>scalable web applications, robust RESTful APIs, and reliable backend systems</strong> using C#, ASP.NET Core, Angular, and SQL Server.
 
-💡 Passionate about writing clean, maintainable code, designing efficient databases, and applying **Clean Architecture, SOLID principles, and design patterns** to deliver high-quality software solutions.
+💡 Passionate about writing clean, maintainable code, designing efficient databases, and applying <b>Clean Architecture, SOLID principles, and Design Patterns</b> to deliver high-quality software solutions.
+
 ---
 
 ## 🛠️ Technical Skills
