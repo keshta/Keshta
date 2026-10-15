@@ -12,7 +12,7 @@ I specialize in developing robust APIs, designing efficient database solutions, 
 `HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `jQuery` · `Bootstrap`
 
 ### Backend
-`C#` · `ASP.NET Core` · `ASP.NET Core MVC` · `Web API` · `Entity Framework Core` · `ABP Framework` · `LINQ`
+`C#` · `ASP.NET Core` · `ASP.NET Core MVC` · `Web API` · `Entity Framework` · `ABP Framework` · `LINQ`
 
 ### Databases
 `Microsoft SQL Server` · `PostgreSQL` · `Database Design` · `Stored Procedures` · `Complex SQL Queries`
