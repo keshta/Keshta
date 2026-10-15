@@ -17,8 +17,11 @@ I specialize in developing robust APIs, designing efficient database solutions, 
 ### Databases
 `Microsoft SQL Server` · `PostgreSQL` · `Database Design` · `Stored Procedures` · `Complex SQL Queries`
 
+### Concepts
+`OOP` · `SOLID Principles` · `Design Patterns` · `Dependency Injection` · `Asynchronous Programming` · `LINQ`
+
 ### Architecture & Design
-`OOP` · `SOLID Principles` · `Design Patterns` · `Clean Architecture` · `Onion Architecture` · `CQRS` · `Unit of Work`
+`Clean Architecture` · `Onion Architecture` · `CQRS` · `Unit of Work`
 
 ### Authentication & Real-Time Communication
 `ASP.NET Core Identity` · `JWT Authentication` · `SignalR`
