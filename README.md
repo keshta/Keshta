@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohamed Alaa
 
-<!--
-**keshta/Keshta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack .NET Developer** with experience in building **secure, scalable, and maintainable web applications** using C#, ASP.NET Core, Angular, and SQL Server.
 
-Here are some ideas to get you started:
+I specialize in developing robust APIs, designing efficient database solutions, and building enterprise-grade applications using modern software development practices and clean architecture principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `jQuery` · `Bootstrap`
+
+### Backend
+`C#` · `ASP.NET Core` · `ASP.NET Core MVC` · `Web API` · `Entity Framework Core` · `ABP Framework` · `LINQ`
+
+### Databases
+`Microsoft SQL Server` · `PostgreSQL` · `Database Design` · `Stored Procedures` · `Complex SQL Queries`
+
+### Architecture & Design
+`OOP` · `SOLID Principles` · `Design Patterns` · `Onion Architecture` · `CQRS` · `Unit of Work`
+
+### Authentication & Real-Time Communication
+`ASP.NET Core Identity` · `JWT Authentication` · `SignalR`
+
+### Reporting & API Testing
+`Crystal Reports` · `Swagger / OpenAPI` · `Postman`
+
+### Version Control & Code Management
+`Git` · `GitHub` · `Azure DevOps`
+
+### Development Tools
+`Visual Studio` · `Visual Studio Code`
+
+---
+
+## 💻 What I Do
+
+- Develop RESTful APIs using ASP.NET Core Web API.
+- Build responsive web applications using Angular, TypeScript, and Bootstrap.
+- Design and optimize relational databases using SQL Server and PostgreSQL.
+- Apply SOLID principles, design patterns, and clean architecture practices.
+- Implement authentication and authorization using JWT and ASP.NET Core Identity.
+- Develop maintainable backend solutions using Entity Framework Core and CQRS.
+- Integrate third-party services and work with electronic invoicing systems.
+
+---
+
+## 📬 How to Reach Me
+
+- 📧 **Email:** [Mohamed_Mohamed6402@Yahoo.com](mailto:Mohamed_Mohamed6402@Yahoo.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mohamed-alaa-keshta-1463aa133](https://linkedin.com/in/mohamed-alaa-keshta-1463aa133)
+
+---
+
+⭐ Thanks for visiting my profile!
