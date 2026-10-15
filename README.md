@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Mohamed Alaa
+# 👋 Hi, I'm Mohamed Alaa
 
-**Full-Stack .NET Developer | 8+ Years of Experience**
+💻 **Full-Stack .NET Developer | 8+ Years of Experience**
 
-Experienced in building **secure, scalable, and maintainable web applications** using C#, ASP.NET Core, Angular, and SQL Server.
+I build **scalable web applications, robust RESTful APIs, and reliable backend systems** using C#, ASP.NET Core, Angular, and SQL Server.
 
-I specialize in designing and developing **scalable RESTful APIs**, building robust backend systems, optimizing database performance, and implementing maintainable software solutions using **ASP.NET Core, Entity Framework Core, and Clean Architecture**.
+Passionate about writing clean, maintainable code, designing efficient databases, and applying **Clean Architecture, SOLID principles, and software design patterns** to deliver high-quality software solutions.
 ---
 
 ## 🛠️ Technical Skills
