@@ -56,7 +56,7 @@
 ## 📬 How to Reach Me
 
 - 📧 **Email:** [Mohamed_Mohamed6402@Yahoo.com](mailto:Mohamed_Mohamed6402@Yahoo.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mohamed-alaa-keshta-1463aa133](https://linkedin.com/in/mohamed-alaa-keshta-1463aa133)
+- 💼 **LinkedIn:** [linkedin.com/in/mohamed-alaa-keshta-1463aa133](https://linkedin.com/in/mohamed-alaa-keshta)
 
 ---
 
